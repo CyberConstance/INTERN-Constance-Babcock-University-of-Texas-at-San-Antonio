@@ -1,0 +1,16 @@
+import java.util.Arrays;
+
+public class Main{
+  
+  public Main() 
+  { 
+    /* YOUR CONSTRUCTOR CODE HERE*/
+  }
+  
+  
+  
+  public static void main(String[] args) 
+  { 
+      
+  }
+}
